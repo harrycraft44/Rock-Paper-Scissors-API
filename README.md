@@ -11,6 +11,6 @@ http://127.0.0.1/?rps=scissors
 
 # Or
 Users can also use:
-http://127.0.0.1/?rps=r
-http://127.0.0.1/?rps=p
-http://127.0.0.1/?rps=s
+1) http://127.0.0.1/?rps=r
+2) http://127.0.0.1/?rps=p
+3) http://127.0.0.1/?rps=s
